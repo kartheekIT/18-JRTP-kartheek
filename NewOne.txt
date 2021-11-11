@@ -1,0 +1,4 @@
+public class Mobile{
+
+public void getMobiledetails();
+}
