@@ -1,0 +1,4 @@
+class MobileApp{
+private String mbName;
+private int price;
+}
