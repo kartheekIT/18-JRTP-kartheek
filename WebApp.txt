@@ -1,0 +1,4 @@
+public class Facebook{
+ publioc void getRegister(){
+System.out.println("please go throw with the register");
+}
