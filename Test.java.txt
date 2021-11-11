@@ -1,0 +1,3 @@
+class Edurekha{
+System.out.println("welcome to edurekha");
+}
