@@ -1,5 +1,6 @@
 public class Facebook{
  publioc void getRegister(){
+public void dataSubmit();
 public void getDetails();
 System.out.println("please go throw with the register");
 }

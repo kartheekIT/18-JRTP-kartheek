@@ -4,7 +4,7 @@ void get M1(){
 
 void get M2(){
 
-void add(){
+void add(int a int b){
 
 void sum add(){
 
