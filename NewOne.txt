@@ -1,4 +1,4 @@
 public class Mobile{
-
+// this is new modify
 public void getMobiledetails();
 }
