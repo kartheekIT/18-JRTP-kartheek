@@ -1,0 +1,7 @@
+public class MobileApp{
+
+void get M1(){
+
+void get M2(){
+}
+}
