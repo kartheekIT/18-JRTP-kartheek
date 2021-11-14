@@ -1,0 +1,7 @@
+public class Enrollment{
+
+public void getRegister();
+
+public void getData();
+
+}
