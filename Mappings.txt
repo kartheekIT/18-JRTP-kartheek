@@ -1,7 +1,12 @@
 Public class Google{
+
+public list<String>arr=new Array List();
 private int i=10;
+
 // fields
 private String userId;
 private String rootName;
  System.out.println("this is first commit);
+
+array.asList();
 }
