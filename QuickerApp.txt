@@ -4,4 +4,10 @@ public void getRegister();
 
 public void getData();
 
+//csr bug-456
+public void doProcess(){
+// logic here
+System.out.println("process running");
+
+
 }
